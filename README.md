@@ -11,7 +11,9 @@ $\text{радианы} = \text{градусы} \times \frac{\pi}{180}$
 
 Используется **формула хаверсинуса** для определения расстояния между двумя точками на сфере:
 $a = \sin^2\left(\frac{\Delta\varphi}{2}\right) + \cos(\varphi_1) \cdot \cos(\varphi_2) \cdot \sin^2\left(\frac{\Delta\lambda}{2}\right)$
+
 $c = 2 \cdot \text{atan2}\left(\sqrt{a}, \sqrt{1-a}\right)$
+
 $d = R \cdot c$
 
 Где:
