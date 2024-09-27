@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\burnf\\source\\repos\\ConsoleApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\burnf\\source\\repos\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\AttackSimulation.csproj|c:\\users\\burnf\\source\\repos\\consoleapp2\\consoleapp2\\services\\idistancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\AttackSimulation.csproj|solutionrelative:consoleapp2\\services\\idistancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\AttackSimulation.csproj|c:\\users\\burnf\\source\\repos\\consoleapp2\\consoleapp2\\services\\haversinedistancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\AttackSimulation.csproj|solutionrelative:consoleapp2\\services\\haversinedistancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\AttackSimulation.csproj|c:\\users\\burnf\\source\\repos\\consoleapp2\\consoleapp2\\services\\iattackstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\AttackSimulation.csproj|solutionrelative:consoleapp2\\services\\iattackstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\AttackSimulation.csproj|c:\\users\\burnf\\source\\repos\\consoleapp2\\consoleapp2\\services\\attackstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\AttackSimulation.csproj|solutionrelative:consoleapp2\\services\\attackstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\AttackSimulation.csproj|c:\\users\\burnf\\source\\repos\\consoleapp2\\consoleapp2\\models\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\AttackSimulation.csproj|solutionrelative:consoleapp2\\models\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\AttackSimulation.csproj|c:\\users\\burnf\\source\\repos\\consoleapp2\\consoleapp2\\models\\coordinateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\AttackSimulation.csproj|solutionrelative:consoleapp2\\models\\coordinateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\AttackSimulation.csproj|c:\\users\\burnf\\source\\repos\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\AttackSimulation.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\AttackSimulation.csproj|c:\\users\\burnf\\source\\repos\\consoleapp2\\consoleapp2\\attacksimulation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26AFEA40-90DC-47A3-A5CE-ED06CF1442E0}|ConsoleApp2\\AttackSimulation.csproj|solutionrelative:consoleapp2\\attacksimulation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,16 +77,111 @@
               "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAttackStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Services\\IAttackStrategy.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Services\\IAttackStrategy.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Services\\IAttackStrategy.cs",
+              "RelativeToolTip": "ConsoleApp2\\Services\\IAttackStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:47:16.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HaversineDistanceCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Services\\HaversineDistanceCalculator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Services\\HaversineDistanceCalculator.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Services\\HaversineDistanceCalculator.cs",
+              "RelativeToolTip": "ConsoleApp2\\Services\\HaversineDistanceCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:46:38.921Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IDistanceCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Services\\IDistanceCalculator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Services\\IDistanceCalculator.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Services\\IDistanceCalculator.cs",
+              "RelativeToolTip": "ConsoleApp2\\Services\\IDistanceCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:45:53.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoordinateConverter.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Models\\CoordinateConverter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Models\\CoordinateConverter.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Models\\CoordinateConverter.cs",
+              "RelativeToolTip": "ConsoleApp2\\Models\\CoordinateConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:41:54.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Models\\GameObject.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Models\\GameObject.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Models\\GameObject.cs",
+              "RelativeToolTip": "ConsoleApp2\\Models\\GameObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:41:10.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttackSimulation.csproj",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\ConsoleApp2\\ConsoleApp2\\AttackSimulation.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp2\\AttackSimulation.csproj",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\ConsoleApp2\\ConsoleApp2\\AttackSimulation.csproj",
+              "RelativeToolTip": "ConsoleApp2\\AttackSimulation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T13:39:48.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
               "ToolTip": "C:\\Users\\burnf\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
               "RelativeToolTip": "ConsoleApp2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T12:42:24.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AttackStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Services\\AttackStrategy.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Services\\AttackStrategy.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Services\\AttackStrategy.cs",
+              "RelativeToolTip": "ConsoleApp2\\Services\\AttackStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:47:46.86Z",
               "EditorCaption": ""
             }
           ]
