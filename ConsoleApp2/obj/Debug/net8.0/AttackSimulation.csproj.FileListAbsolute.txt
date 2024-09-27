@@ -1,0 +1,15 @@
+C:\Users\burnf\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\AttackSimulation.exe
+C:\Users\burnf\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\AttackSimulation.deps.json
+C:\Users\burnf\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\AttackSimulation.runtimeconfig.json
+C:\Users\burnf\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\AttackSimulation.dll
+C:\Users\burnf\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\AttackSimulation.pdb
+C:\Users\burnf\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\AttackSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burnf\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\AttackSimulation.AssemblyInfoInputs.cache
+C:\Users\burnf\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\AttackSimulation.AssemblyInfo.cs
+C:\Users\burnf\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\AttackSimulation.csproj.CoreCompileInputs.cache
+C:\Users\burnf\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\AttackSimulation.sourcelink.json
+C:\Users\burnf\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\AttackSimulation.dll
+C:\Users\burnf\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\AttackSimulation.dll
+C:\Users\burnf\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\AttackSimulation.pdb
+C:\Users\burnf\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\AttackSimulation.genruntimeconfig.cache
+C:\Users\burnf\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\AttackSimulation.dll
