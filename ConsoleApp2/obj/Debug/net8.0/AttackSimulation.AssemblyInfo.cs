@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AttackSimulation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ded2110a4c98352c64b770e239a4aa7098b9c5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0cef3dce26b81b61e9d15c68183c6c40000945e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AttackSimulation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AttackSimulation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
